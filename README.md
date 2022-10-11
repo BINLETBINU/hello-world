@@ -1,2 +1,3 @@
 # hello-world
-It is my first creation of repository
+
+##This is a small activity during my free time, to learn about GIT.
